@@ -1,39 +1,101 @@
-First Name,Last Name,Job Title,Company,Company Website,Location,LinkedIn,Email,Phone,Running Paid Ads,Buying Signals,Signal Tier,Signal Score
-Jerome,Castaing,,kellydeli,,,,jerome.castaing@kellydeli.com,,,,,0
-Joe,Davies,,fat joe,,,,joe.davies@fatjoe.co,,,,,0
-Sarah,Forster,,The Good Economy,,,,sarah@bigissueinvest.com,,,,,0
-Melissa,Fernandez,,bookalook  digital showroom,,,,melissafernandez@bookalook.com,,,,,0
-Whitney,Hawkings,,flowerbx,,,,whitney@flowerbx.com,,,,,0
-Rob,Ollett,,gamesco,,,,rob.ollett@gamesco.com,,,,,0
-Charles,Rudgard,,lee broom,,,,charles@leebroom.com,,,,,0
-Toby,Walters,,elite exhibitions ,,,,toby.walters@elite-exhibitions.com,,,,,0
-Kalyan,Chandrapu,,qapitol qa  an award winning qa company,,,,chandrapu@qapitol.com,,,,,0
-Sam,Baker,,the pool,,,,sam.baker@thepoolltd.com,,,,,0
-Brad,Cumbers,,martialytics  martial arts school software,,,,brad@martialytics.com,,,,,0
-Marie-Anne,Onraed,,sip  learn  wwwsipandlearncouk,,,,marie-anne@sipandlearn.co.uk,,,,,0
-Roddy,Millar,,iedp  developing leaders,,,,rmillar@iedp.com,,,,,0
-Anthony,Ackenhoff,,frukt,,,,andrew@wearefrukt.com,,,,,0
-Andy,Chatterley,,muso,,,,andy.chatterley@muso.com,,,,,0
-Reece,Broadhurst,,ARNE,,,,reece@arneclo.com,,,,,0
-Kamila,Hankiewicz,,amuse,,,,kamila@amuse.tech,,,,,0
-Adam,Biddle,,gh05t,,,,adam@united-agency.co.uk,,,,,0
-Liam,Gooding,,trakio  32905,,,,liam@trak.io,,,,,0
-Paul,Ellis,,electron  blockchain systems for the energy sector,,,,paul.ellis@electron.org.uk,,,,,0
-Jennifer,Begg,,twobees digital media training  consultancy,,,,jennifer@teamtwobees.com,,,,,0
-Helena,Searcaigh,,fact  fiction,,,,helena@gymtote.co.uk,,,,,0
-Francisco,Moreno,,redk  the crm solutions company,,,,fmoreno@redk.net,,,,,0
-Paul,Lorimer-Wing,,easygym,,,,paul@easygym.co.uk,,,,,0
-Lee,Booth,,active ticketing plc ,,,,lee.booth@activeplc.com,,,,,0
-Steve,Langkamp,,jobhawk  construction labour marketplace,,,,steve@jobhawk.co.uk,,,,,0
-Paul,Roberts,,My Customer Lens,,,,paul@mycustomerlens.com,,,,,0
-Matthew,Klimpke,,vyking  video advertising platform,,,,matthew.klimpke@vyking.io,,,,,0
-Alex,Grogan,,Aimtru Brands,,,,alex@aimtru.co,,,,,0
-Jake,Wombwell-Povey,,goji ,,,,jake@goji.investments,,,,,0
-Faisal,Laljee,,hr block,,,,flaljee@hrblock.com,,,,,0
-Alexander,Pearse,,cirrus inns,,,,alexander@epicureantimes.com,,,,,0
-Antony,Woodcock,,gig ,,,,antony.woodcock@ihg.com,,,,,0
-Phil,Kemish,,Reboxed,,,,phil@reboxed.co,,,,,0
-Rytis,Lauris,,omnisend  ecommerce email marketing,,,,rytis@omnisend.com,,,,,0
-Simon,Phelan,,Hometree,,,,siphelan@tcd.ie,,,,,0
-Mitchell,Carey,,hmd games,,,,mitchell@thehmdgames.com,,,,,0
-Chris,Barley,,Converso,,,,cbarley@btopenworld.com,,,,,0
+email,first_name,last_name,company_name,title,company_domain,industry,company_size,country
+jerome.castaing@kellydeli.com,Jerome,Castaing,kellydeli,"Co- Founder, Owner & CEO",kellydeli.com,"Food and Beverage, Restaurants",167,United Kingdom
+hitesh@phoenix7.co.uk,Hitesh,Vekaria,phoenix7,"Co-Founder, Owner, Director, and CEO",phoenix7.co.uk,,,
+dan@firesouls.co.uk,Dan,Ebanks,firesouls,Co-founder & CEO,firesouls.co.uk,"Communities, Delivery",2,United Kingdom
+alex@zencargo.com,Alex,Hersham,zencargo,Co Founder & CEO,zencargo.com,"Logistics, logistics & supply chain",15,United Kingdom
+tiku@word360.co.uk,Tiku,Chauhan,Word360,CEO & Co Founder,word360.co.uk,,,
+adam@utility-exchange.co.uk,Adam,White,switchmybusinesscom,Co-founder & CEO,utility-exchange.co.uk,,,
+paul.upton@rcht.cornwall.nhs.uk,Paul,Upton,ultramed ltd,CEO and co-founder,rcht.cornwall.nhs.uk,information technology & services,8,
+matt@bareconductive.com,Matt,Johnson,bare conductive,CEO & Co-Founder,bareconductive.com,"Consumer Electronics, Electronics",13,United Kingdom
+mark.pratt@parcelpet.com,Mark,Pratt,parcelpet,CEO and Co-Founder,parcelpet.com,retail,5,United Kingdom
+sauravc@perkbox.co.uk,Saurav,Chopra,perkbox,CEO & Co-Founder,perkbox.co.uk,internet,6,United Kingdom
+richard@sfyb.co.uk,Richard,Spindler,pixx digital,CEO and Co-Founder,sfyb.co.uk,,,
+ross@rossdavis.co.uk,Ross,Davis,hamtun watches,Co-founder & CEO,rossdavis.co.uk,,,
+mike@eaglehodgson.com,Michael,Eagle-Hodgson,milly cookbook,CEO & Co-Founder,eaglehodgson.com,,,
+richardmpcollins@btopenworld.com,Richard,Collins,sharedsky,CEO & Co-Founder,btopenworld.com,,,
+sho@portify.co,Sho,Sugihara,Fuse,Co-Founder & CEO,portify.co,,,
+james.booth@rockaboxmedia.com,James,Booth,Scoota,Co-Founder & CEO,rockaboxmedia.com,,,
+linkedin@jiglum.com,Jigar,Patel,The Ticket Fairy,CEO & Co-Founder,jiglum.com,,,
+harry@ukarbon.co.uk,Harry,Hextall,ukarbon,CEO & Co-Founder,ukarbon.co.uk,consumer goods,1,United Kingdom
+ruth@bethebulb.com,Ruth,Weldon,the bulb ldn,CEO and Co Founder,bethebulb.com,,,
+paul.balogh@readfwd.com,Paul,Balogh,Hypersay Events,Co-founder / CEO,readfwd.com,,,
+francesco@doggyandco.com,Francesco,Cardoletti,pawsquad,Co-founder/CEO,doggyandco.com,,,
+ian@mucklebrig.com,Ian,Stirling,muckle brig ltd,Founder/Co-CEO,mucklebrig.com,,5,United Kingdom
+jan.quant@screendragon.com,Jan,Quant,Screendragon,Co-Founder & CEO,screendragon.com,,,
+d.gilchrist4@ntlworld.com,Derek,Gilchrist,Causeway Therapeutics,Co Founder & CEO,ntlworld.com,,,
+paul.evans@redstor.com,Paul,Evans,Redstor,CEO and co-founder,redstor.com,,,
+alowe@iocom.com,Alan,Lowe,Visionable,CEO & Co-Founder,iocom.com,,,
+chris@fixington.com,Chris,Shepherd,fixington,Co-founder and CEO,fixington.com,"Construction, E-Commerce",5,United Kingdom
+b.morse@orsonandco.com,Benjamin,Morse,Orson & Co.,Co-Founder and CEO,orsonandco.com,,,
+suresh.kumar@edge-ge.com,Suresh,Kumar,Scene,Co-Founder and CEO,edge-ge.com,,,
+suzanne@stunningpr.com,Suzanne,Noble,Nestful,Co-Founder & CEO,stunningpr.com,,,
+james@damsonaudio.com,James,Talbot,damson global,CEO and co-Founder,damsonaudio.com,consumer electronics,1,United Kingdom
+jessicakate88@hotmail.com,Jessica,Jones-Berney,tomartacus,"Co-Founder, CEO",tomartacus.co.uk,arts and crafts,5,
+ronald@forteholding.com,Ronald,Homsy,utopian hotel collection,Co-Founder/CEO,forteholding.com,,,
+mandeep@trouva.com,Mandeep,Singh,trouva,Co-Founder & CEO,trouva.com,"E-Commerce, Fashion",47,United Kingdom
+fraser@leadfinch.com,Fraser,Atkins,salessift,CEO & Co-founder,leadfinch.com,,,
+sam@trippin.world,Sam,Blenkinsopp,trippin world,Co-Founder & CEO,trippin.world,"leisure, travel & tourism",,United Kingdom
+info@dataaffinity.co.uk,Martin,Ruddy,Get Set Pet,CEO & Co-Founder,dataaffinity.co.uk,,,
+gareth@grdigital.co.uk,Gareth,Harry,GR Digital,Co-Founder & CEO,grdigital.co.uk,,,
+giles.tongue@tech21.com,Giles,Tongue,chatableapps,"ceo, co- founder",tech21.com,,,
+christopher.platts@newchapter.co.uk,Christopher,Platts,ThriveMap,Co-Founder & CEO,newchapter.co.uk,staffing & recruiting,4,
+hugo.feiler@greyeu.com,Hugo,Feiler,Minima,Co-Founder / CEO,greyeu.com,,,
+jharrison@sky-futures.com,James,Harrison,skyfutures,Co-founder & CEO,sky-futures.com,"Artificial Intelligence (AI), Asset Management",20,United Kingdom
+filippo.maghella@glamourflare.com,Filippo,Maghella,glamour flare,Co-Founder & CEO,glamourflare.com,retail,1,United Kingdom
+andrew.hawken@bskyb.com,Andrew,Hawken,Mesmerise,Co-Founder and CEO,bskyb.com,,,
+marco.daddeo@db.com,Marco,D'Addeo,Ennismar,Co-founder and CEO,db.com,,,
+mark@edigitalconsulting.co.uk,Mark,Hadley,Blackout Technologies,Co-Founder and CEO,edigitalconsulting.co.uk,,,
+toby.walters@elite-exhibitions.com,Toby,Walters,elite exhibitions ,"CEO, Co Founder",elite-exhibitions.com,"Event Management, Events",28,United Kingdom
+paul.gouge@ideaspad.co.uk,Paul,Gouge,ForthStar,CEO and Co-Founder,ideaspad.co.uk,,,
+kapil@humanlearning.com,Kapil,Singhal,vyntelligence by hl,Co-founder & CEO,humanlearning.com,,,
+patrick@twostroke.tv,Patrick,Charlton,Buzz Radar,Co-Founder & CEO,twostroke.tv,,,
+tridip_saha@mindtree.com,Tridip,Saha,Agilitz Technologies,CEO & Co-Founder,mindtree.com,,,
+mathias.upton-hansen@turner.com,Mathias,Upton-Hansen,Blacklist Creative,Co-founder and CEO,turner.com,,,
+daniel.auner@rbs.com,Daniel,Auner,soupe du jour ltd,Co Founder and CEO,rbs.com,,,
+darren@specifiedby.com,Darren,Lester,Saltroad,Co-Founder & CEO,specifiedby.com,,,
+kathrynparsons@thescarlettmark.com,Kathryn,Parsons,Decoded,Co-Founder and CEO,thescarlettmark.com,,,
+dmichael@avaudio.co.uk,David,Michael,Streeva,CEO and Co-Founder,avaudio.co.uk,,,
+jonathan@willisventurepartners.com,Jonathan,Willis,aprexo,Co-founder - CEO,willisventurepartners.com,,,
+lexahunt@mcleanpartnership.com,Lexa,Hunt,Deputi,Co-Founder and CEO,mcleanpartnership.com,,,
+barry@dromuk.com,Barry,Smith,Drom UK,CEO & Co-Founder,dromuk.com,,,
+lornaf@bicom.org.uk,Lorna,Fitzsimons,the pipeline ltd,Co Founder and CEO,bicom.org.uk,,,
+ranjan.singh@isango.com,Ranjan,Singh,HealthHero,Co-founder & CEO,isango.com,,,
+sunil@scg-global.com,Sunil,Gupta,matrix sports international ltd,Co-Founder & CEO,scg-global.com,,,
+darren@londondistillery.com,Darren,Rook,the london distillery company ltd,CEO/Co-Founder,londondistillery.com,"Beverages, Hospitality",10,United Kingdom
+martin.falch@european-leaders.com,Martin,Falch,360leaders,CEO & Co-founder,european-leaders.com,,,
+gus.sargent@esynergy-solutions.co.uk,Gus,Sargent,Tecknuovo,CEO & Co-Founder,esynergy-solutions.co.uk,,,
+lzografos@parkure.co.uk,Lysimachos,Zografos,parkure,CEO & Co-founder,parkure.co.uk,"Biotechnology, Drug Discovery",4,United Kingdom
+chris@ratemyplacement.co.uk,Chris,Wickson,Akkroo,Co-founder and CEO,ratemyplacement.co.uk,,,
+david.cocks@cloudtrade.co.uk,David,Cocks,cloudtrade,CEO and co-founder,cloudtrade.co.uk,,,
+diana@fits.me,Diana,Saarva,house of artisans ,CEO & Co-Founder,fits.me,,,
+glamb@datapa.com,Gary,Lamb,datapa ltd,Co-Founder and CEO,datapa.com,,,
+ed@elmstonesystems.co.uk,Ed,Perryman,Replacer,CEO & Co-Founder,elmstonesystems.co.uk,,,
+marie-anne@sipandlearn.co.uk,Marie-Anne,Onraed,sip  learn  wwwsipandlearncouk,Co Founder and CEO,sipandlearn.co.uk,wine & spirits,1,United Kingdom
+piers.parnell@parnellandlaws.co.uk,Piers,Parnell,Clippd,CEO & Co-Founder,parnellandlaws.co.uk,,,
+nwelch@welcom.co.uk,Nigel,Welch,Welcom Digital,CEO and Co-Founder,welcom.co.uk,,,
+jonathan.newell@ifaprosure.com,Jonathan,Newell,BareRock,Co-Founder and CEO,ifaprosure.com,,,
+andrew.foyle@sherston.com,Andrew,Foyle,Miappi,Co-Founder & CEO,sherston.com,,,
+tommarley@g3r.co.uk,Tom,Marley,the car buying group,CEO / Co Founder,thecarbuyinggroup.co.uk,automotive,30,United Kingdom
+andy.shaw@tectonicinteractive.com,Andy,Shaw,tectonic interactive,co-Founder & CEO,tectonicinteractive.com,"Broadcasting, information technology & services",7,United Kingdom
+jason.green@nogeek.org,Jason,Green,HolidayFox,CEO & Co-Founder,nogeek.org,,,
+jgallard@deloitte.co.uk,Joe,Gallard,Reducer,"Co-Founder, CEO",deloitte.co.uk,,,
+rich@verytangy.com,Rich,Tuckwell,Le Voyage Hotels and Resorts,Co-Founder and CEO,verytangy.com,,,
+rowena.humby@starcount.com,Rowena,Humby,Starcount,Co-founder & CEO,starcount.com,,,
+ryan@thedistance.co.uk,Ryan,Atkins,Supercycle,CEO & Co-Founder,thedistance.co.uk,,,
+info@beechermadden.co.uk,Owen,Jobling,somet recruitment,CEO and Co Founder,beechermadden.co.uk,,,
+preben@hotelswaps.com,Preben,Vestdam,hotelswaps,Co-founder & CEO,hotelswaps.com,hospitality,3,United Kingdom
+mark@h20carvaleting.com,Mark,Turner,the takeover,Co-Founder & CEO,h20carvaleting.com,,,
+matt.fox@snaptrip.com,Matthew,Fox,snaptripcom,CEO & Co Founder,snaptrip.com,"Marketplace, Tourism",22,United Kingdom
+khurley@mountanvil.com,Killian,Hurley,Mount Anvil,Co-Founder and CEO,mountanvil.com,construction,148,
+maido.janke@iitee.ee,Maido,Janke,Eziil,"Co-founder, CEO",iitee.ee,,,
+chitresh.sharma@swipiicard.com,Chitresh,Sharma,swipii,CEO & co-founder,swipiicard.com,consumer services,29,United Kingdom
+dmanson@travark.com,David,Manson,travark,CEO & Co-Founder,travark.com,,,
+reece@arneclo.com,Reece,Broadhurst,ARNE,Co-Founder & CEO,arneclo.com,"Apparel, Fashion",17,United Kingdom
+paul@optimetriks.com,Paul,Langlois-Meurinne,optimetriks,"Co-founder, CEO",optimetriks.com,"Emerging Markets, Enterprise Software",16,Kenya
+aahrle@specsecserv.com,Andre,Ahrle,Tertre Rouge Assets,CEO & Co-Founder,specsecserv.com,,,
+roman@splento.com,Roman,Grigoriev,splento,CEO & Co-founder,splento.com,"Content Creators, Content Marketing",24,United Kingdom
+loutfy.mansour@mantracgroup.com,Loutfy,Mansour,Man Capital,Co-Founder & CEO,mantracgroup.com,,,
+simon@gamepointsnow.com,Simon,Ward,Merchoid,Co-founder and CEO,gamepointsnow.com,,,
+eoin@innersightlabs.com,Eoin,Hyde,innersightlabs,"Co-Founder, CEO",innersightlabs.com,,,
+r.waldron@countrywidegrounds.com,Rupert,Wiseman,Wiseman Solutions,CEO & Co-Founder,countrywidegrounds.com,,,
+ben@welovemobile.co.uk,Ben,Scott-Robinson,The Small Robot Company,Co-Founder and CEO,welovemobile.co.uk,,,
